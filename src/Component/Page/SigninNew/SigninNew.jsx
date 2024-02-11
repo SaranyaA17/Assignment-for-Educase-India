@@ -62,31 +62,6 @@ const SigninNew = () => {
     }
   };
 
-  // const successMessage = () => {
-  //   return (
-  //     <div
-  //       className="success"
-  //       style={{
-  //         display: submitted ? "" : "none",
-  //       }}
-  //     >
-  //       <h1>User {fullName} successfully registered!!</h1>
-  //     </div>
-  //   );
-  // };
-  // const errorMessage = () => {
-  //   return (
-  //     <div
-  //       className="error"
-  //       style={{
-  //         display: error ? "" : "none",
-  //       }}
-  //     >
-  //       <h1>Please enter all the fields</h1>
-  //     </div>
-  //   );
-  // };
-
   return (
     <div className="signinNew">
       <div className="signinNew-sec-1">
