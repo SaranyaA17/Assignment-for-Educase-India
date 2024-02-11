@@ -1,0 +1,68 @@
+.account{
+    width: 375px;
+    height: 812px;
+    border: 2px solid #CBCBCB;
+    background: #F7F8F9;
+}
+.account-sec-1{
+    width: 373px;
+    height: 68px;
+    background: #FFFFFF;
+}
+.account-sec-1 h1{
+    font-size: 21px;
+    padding: 20px;
+}
+.account-sec-2{
+    display: flex;
+    padding: 20px;
+}
+.account-sec-img{
+    width: 376px;
+    height: 100px;
+}
+.account-sec-img-1{
+    display: flex;   
+}
+
+.account-sec-img-2{
+    position: block;
+    width: 21px;
+    height: 23px;  
+}
+.account-sec-img-2 img{
+    margin-top: 55px;
+    margin-left: -17px;
+}
+.account-sec-img img{
+    width: 76px;
+    height: 76px;
+}
+.account-sec-contact{
+    padding: 10px;
+}
+.account-sec-contact h1{
+    font-size: 15px;
+    font-weight: 700;
+}
+.account-sec-contact p{
+    font-size: 14px;
+    font-weight: 500;
+}
+.account-sec-3{
+    padding: 20px;
+    font-size: 14px;
+    font-weight: 500;
+    margin-top: -20px;
+}
+
+.account-sec-4{
+    height: 65%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: -30px;
+}
+hr{
+    border: 1px dashed #6C25FF4B;
+}
