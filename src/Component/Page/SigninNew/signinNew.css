@@ -60,3 +60,9 @@ sup{
     font-size: 15px;
     top: -2px;
 }
+.error{
+    position: absolute;
+    color: red;
+    margin-top: -100px;
+    font-size: 20px;
+}
